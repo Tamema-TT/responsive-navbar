@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
-import './NavBar.css';
+import './Navbar.css';
 
 const NavBar = () => {
   // Use state to keep track of whether the menu is displayed or not
